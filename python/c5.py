@@ -735,11 +735,11 @@ def sample_582_1():
 if __name__ == "__main__":
     # sample_511()
     # sample_512()
-    sample_513()
+    # sample_513()
     # sample_52()
     # sample_531_1()
     # sample_531_2()
-    # sample_532()
+    sample_532()
     # sample_533()
     # sample_54_1()
     # sample_54_2()
